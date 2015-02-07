@@ -27,7 +27,7 @@ Lightweight M2M 1.0 enabler introduces the following features below for the init
 * Basic M2M functionalities: LWM2M Server, Access Control, Device, Connectivity, Firmware Update, Location, Connectivity Statistics.
 
 
-|  Enabler           | Version  | Description                              |
+|  OMA Enabler           | Version  | Description                              |
 | -------------------|:-------: | ----------:                              |
 | LwM2M              |   V1.0   | Lightweight Machine to Machine Protocol                   
 | LwM2M ConnMgmt     |   V1.0   | LightweightM2M Object Connectivity Management   |
