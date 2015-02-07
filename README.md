@@ -24,7 +24,8 @@ Lightweight M2M 1.0 enabler introduces the following features below for the init
 * DTLS based security
 * Queue mode for NAT/Firewall environment
 * Multiple LWM2M Server support
-* Basic M2M functionalities: LWM2M Server, Access Control, Device, Connectivity, Firmware Update, Location, Connectivity Statistics
+* Basic M2M functionalities: LWM2M Server, Access Control, Device, Connectivity, Firmware Update, Location, Connectivity Statistics.
+
 
 |  Enabler           | Version  | Description                              |
 | -------------------|:-------: | ----------:                              |
