@@ -5,7 +5,7 @@
 OMA LightweightM2M specifications for public review.
 
 ##Table of Content##
-- [**Wiki**](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/wiki)
+- [**Wiki** (OMA LwM2M Developer Took Kit)](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/wiki)
 - [**Problem Reports**](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/issues)
 - [**Documentation**]()
 - [**Copyright & license**](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/blob/master/OMA%20ISC.txt)
