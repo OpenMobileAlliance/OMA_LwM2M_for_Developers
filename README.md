@@ -4,7 +4,12 @@
 
 OMA LightweightM2M specifications for public review.
 
-
+##Table of Content##
+- [**Wiki**](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/wiki)
+- [**Problem Reports**](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/issues)
+- [**Documentation**]()
+- [**Copyright & license**](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/blob/master/OMA%20ISC.txt)
+- [**Versioning & Other Enablers**](#Versions)
 
 ##Versions##
 
@@ -21,3 +26,11 @@ Lightweight M2M 1.0 enabler introduces the following features below for the init
 * Multiple LWM2M Server support
 * Basic M2M functionalities: LWM2M Server, Access Control, Device, Connectivity, Firmware Update, Location, Connectivity Statistics
 
+|  Enabler           | Version  | Description                              |
+| -------------------|:-------: | ----------:                              |
+| LwM2M              |   V1.0   | Lightweight Machine to Machine Protocol                   
+| LwM2M ConnMgmt     |   V1.0   | LightweightM2M Object Connectivity Management   |
+| LwM2M SwMgmt       |   V1.0   | LightweightM2M Object Software Management  |
+| LwM2M LockWipe     |   V1.0   | LightweightM2M Object Lock & Wipe   |
+| LwM2M DevCapMgmt   |   V1.0   | LightweightM2M Object Device Capability Management  |
+| M2MInterface       |   V1.0   | Management Interface for M2M    | 
