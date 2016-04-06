@@ -1,4 +1,4 @@
-# OMA LwM2M Public Review
+# OMA LwM2M for Developers
 
 ![Alt text](images/admin/lwm2m_logo_v6.jpg "OMA LwM2M Logo")
 
