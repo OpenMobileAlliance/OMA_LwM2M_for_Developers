@@ -4,13 +4,37 @@
 
 OMA LightweightM2M specifications for public review.
 
-##Table of Content##
-- [**Wiki** (OMA LwM2M Developer Took Kit)](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/wiki)
-- [**Problem Reports**](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/issues)
-- [**Documentation**](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review)
-     * Under construction
-- [**Copyright & license**](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/blob/master/OMA%20ISC.txt)
-- [**Version**](#Version) 
+##Wiki Content##
+**OMA LwM2M Developer ToolKit** 
+
+  * [OMA Developer ToolKit|Home](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/LwM2M-Lab-Kit)
+
+**LwM2M Tools Developed by OMA:**
+  * [Whitepaper](http://openmobilealliance.hs-sites.com/free-m2m-whitepaper-from-oma)
+  * [Specifications](http://technical.openmobilealliance.org/Technical/technical-information/release-program/current-releases/oma-lightweightm2m-v1-0)
+  * [Technical Summary](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/blob/master/images/admin/Technical_Summary_lwm2m.pdf)
+  * [DevKit](https://github.com/OpenMobileAlliance/OMA-LWM2M-DevKit)
+  * [[Bugs/Issues|Issues in GitHub]]
+  * [Register](http://technical.openmobilealliance.org/Technical/technical-information/omna/lightweight-m2m-lwm2m-object-registry)
+  * [LwM2M Editor](http://devtoolkit.openmobilealliance.org/OEditor/default.aspx)
+  * [TestFests/Workshops](http://technical.openmobilealliance.org/Technical/testfest-overview)
+  * [Product Listing](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Product-Listing)
+
+**LwM2M Tools Developed by the Community:**
+  * [Open Source Code|LwM2M Open Source Code](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/LwM2M-Open-Source-Code)
+  * [Sandbox](http://leshan.eclipse.org/#/clients)
+  * [LabKit](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/LwM2M-Lab-Kit)
+  * [Demo](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/LwM2M-Demo)
+  * [LwM2M Community](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/LwM2M-Community)  
+
+**OMA LwM2M Events**
+* [Edinburgh Workshop, May 16](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2016-May-IoT-Platform-Training-%28Workshop%29)
+* [San Diego TestFest, Jan 16|2016 January TestFest Results](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2016-January-TestFest-Results)
+* [San Diego IoT Seminar, Jan 16](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2016-January-IoT-Seminar-Slides)
+* [San Diego Workshop, Jan 16|2016 January Hands on IoT Training and Workshop](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/2016-January-Hands-on-IoT-Training-and-Workshop)
+* [Dusseldorf TestFest, Jan 15](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/TestFest-Dusseldorf-26th-to-29th-Jan-2015)
+* [Dusseldorf Workshop, Jan 15|Workshop Dusseldorf 28th Jan 2015](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Workshop-Dusseldorf-28th-Jan-2015)
+* [OMA SlideShare Account](http://www.slideshare.net/OpenMobileAlliance/presentations) 
 
 ##Version##
 ###Version 1.0###
