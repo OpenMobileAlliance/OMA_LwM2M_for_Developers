@@ -7,14 +7,14 @@ OMA LightweightM2M specifications for public review.
 ##Wiki Content##
 **OMA LwM2M Developer ToolKit** 
 
-  * [OMA Developer ToolKit|Home](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/LwM2M-Lab-Kit)
+  * [OMA Developer ToolKit](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/LwM2M-Lab-Kit)
 
 **LwM2M Tools Developed by OMA:**
   * [Whitepaper](http://openmobilealliance.hs-sites.com/free-m2m-whitepaper-from-oma)
   * [Specifications](http://technical.openmobilealliance.org/Technical/technical-information/release-program/current-releases/oma-lightweightm2m-v1-0)
   * [Technical Summary](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/blob/master/images/admin/Technical_Summary_lwm2m.pdf)
   * [DevKit](https://github.com/OpenMobileAlliance/OMA-LWM2M-DevKit)
-  * [[Bugs/Issues|Issues in GitHub]]
+  * [Bugs/Issues](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Issues-in-GitHub)
   * [Register](http://technical.openmobilealliance.org/Technical/technical-information/omna/lightweight-m2m-lwm2m-object-registry)
   * [LwM2M Editor](http://devtoolkit.openmobilealliance.org/OEditor/default.aspx)
   * [TestFests/Workshops](http://technical.openmobilealliance.org/Technical/testfest-overview)
