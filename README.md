@@ -14,9 +14,9 @@ OMA LightweightM2M specifications for public review.
   * [Specifications](http://technical.openmobilealliance.org/Technical/technical-information/release-program/current-releases/oma-lightweightm2m-v1-0)
   * Technical Summary: 
     * [PNG](http://technical.openmobilealliance.org/document/LightweightM2M_V1_0/lwm2m_Technical_Summary.png)
-      * 
+      * 3 MB, zoom in to see details e.g. by clicking on diagram (if display issues try clearing browser cache)
     * [Interactive PDF](http://technical.openmobilealliance.org/document/LightweightM2M_V1_0/lwm2m_Technical_Summary.pdf) 
-      * (Save As...)
+      * 2.4 MB, save PDF file (e.g. to local disk) and open with PDF viewer that supports interactive PDF files e.g. latest Adobe Acrobat Reader. Uses Flash file format.
   * [DevKit](https://github.com/OpenMobileAlliance/OMA-LWM2M-DevKit)
   * [Bugs/Issues](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Issues-in-GitHub)
   * [Register](http://technical.openmobilealliance.org/Technical/technical-information/omna/lightweight-m2m-lwm2m-object-registry)
