@@ -12,7 +12,11 @@ OMA LightweightM2M specifications for public review.
 **LwM2M Tools Developed by OMA:**
   * [Whitepaper](http://openmobilealliance.hs-sites.com/free-m2m-whitepaper-from-oma)
   * [Specifications](http://technical.openmobilealliance.org/Technical/technical-information/release-program/current-releases/oma-lightweightm2m-v1-0)
-  * Technical Summary [PNG](http://technical.openmobilealliance.org/document/LightweightM2M_V1_0/lwm2m_Technical_Summary.png) / [Interactive PDF](http://technical.openmobilealliance.org/document/LightweightM2M_V1_0/lwm2m_Technical_Summary.pdf) (Save As...)
+  * Technical Summary: 
+    * [PNG](http://technical.openmobilealliance.org/document/LightweightM2M_V1_0/lwm2m_Technical_Summary.png)
+      * 
+    * [Interactive PDF](http://technical.openmobilealliance.org/document/LightweightM2M_V1_0/lwm2m_Technical_Summary.pdf) 
+      * (Save As...)
   * [DevKit](https://github.com/OpenMobileAlliance/OMA-LWM2M-DevKit)
   * [Bugs/Issues](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Issues-in-GitHub)
   * [Register](http://technical.openmobilealliance.org/Technical/technical-information/omna/lightweight-m2m-lwm2m-object-registry)
