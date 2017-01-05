@@ -1,6 +1,6 @@
 # OMA LwM2M for Developers
 
-![Alt text](images/admin/lwm2m_logo_v6.jpg "OMA LwM2M Logo")
+![Alt text](images/OMA-129 Lightweight M2M Logo_RGB_short small.jpg "OMA LwM2M Logo")
 
 OMA LightweightM2M specifications for public review.
 
