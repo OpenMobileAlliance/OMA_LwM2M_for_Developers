@@ -1,5 +1,7 @@
 # OMA LwM2M for Developers
 
+[![Join the chat at https://gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers](https://badges.gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers.svg)](https://gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Alt text](images/OMA-129 Lightweight M2M Logo_RGB_short small.jpg "OMA LwM2M Logo")
 
 OMA LightweightM2M specifications for public review.
