@@ -1,10 +1,11 @@
 # OMA LwM2M for Developers
 
-![Alt text](images/OMA-129 Lightweight M2M Logo_RGB_short small.jpg "OMA LwM2M Logo")
+[![Join the chat at https://gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers](https://badges.gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers.svg)](https://gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-OMA LightweightM2M specifications for public review.
+[![Join the chat at https://gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers](https://badges.gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers.svg)](https://gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-##Wiki Content##
+![OMA LwM2M Logo](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/blob/master/images/OMA-129%20Lightweight%20M2M%20Logo_RGB_short%20small.jpg)
+
 **OMA LwM2M Developer ToolKit** 
 
   * [OMA Developer ToolKit](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/LwM2M-Lab-Kit)
@@ -40,8 +41,9 @@ OMA LightweightM2M specifications for public review.
 * [Dusseldorf Workshop, Jan 15](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Workshop-Dusseldorf-28th-Jan-2015)
 * [OMA SlideShare Account](http://www.slideshare.net/OpenMobileAlliance/presentations) 
 
-##Version##
-###Version 1.0###
+
+***Version 1.0***
+
 Lightweight M2M 1.0 enabler introduces the following features below for the initial release:
 
 * Simple Object based resource model
