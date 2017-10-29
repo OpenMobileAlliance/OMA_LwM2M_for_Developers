@@ -4,7 +4,7 @@ Now we have a Chat Room on Gitter
 
 You can visit it here: https://gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers.
 
-[![Join the chat at https://gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers](https://badges.gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers.svg)](https://gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[Chat on Slack](https://lwm2m.slack.com/)
 
 ![OMA LwM2M Logo](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/blob/master/images/OMA-129%20Lightweight%20M2M%20Logo_RGB_short%20small.jpg)
 
