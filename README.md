@@ -1,10 +1,9 @@
 # OMA LwM2M for Developers
 
-Now we have a Chat Room on Gitter
+Now we have a Chat Room on Slack
 
-You can visit it here: https://gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Developers.
+You can visit it here: [https://lwm2m.slack.com](https://lwm2m.slack.com)
 
-[Chat on Slack](https://lwm2m.slack.com/)
 
 ![OMA LwM2M Logo](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/blob/master/images/OMA-129%20Lightweight%20M2M%20Logo_RGB_short%20small.jpg)
 
@@ -14,7 +13,7 @@ You can visit it here: https://gitter.im/OpenMobileAlliance/OMA_LwM2M_for_Develo
 
 **LwM2M Tools Developed by OMA:**
   * [Whitepaper](http://openmobilealliance.hs-sites.com/free-m2m-whitepaper-from-oma)
-  * [Specifications](http://technical.openmobilealliance.org/Technical/technical-information/release-program/current-releases/oma-lightweightm2m-v1-0)
+  * [LwM2M Specifications](http://www.openmobilealliance.org/release/LightweightM2M/)
   * Technical Summary: 
     * [PNG](http://technical.openmobilealliance.org/document/LightweightM2M_V1_0/lwm2m_Technical_Summary.png)
       * 3 MB, zoom in to see details e.g. by clicking on diagram (if display issues try clearing browser cache)
