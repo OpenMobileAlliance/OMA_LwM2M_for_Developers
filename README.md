@@ -4,6 +4,8 @@ Now we have a Chat Room on Slack
 
 You can visit it here: [https://lwm2m.slack.com](https://lwm2m.slack.com)
 
+To request an Invite to the LwM2M chat room email helpdesk@omaorg.org 
+
 
 ![OMA LwM2M Logo](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/blob/master/images/OMA-129%20Lightweight%20M2M%20Logo_RGB_short%20small.jpg)
 
