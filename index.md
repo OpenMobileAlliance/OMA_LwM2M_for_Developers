@@ -1,9 +1,9 @@
 ### Private Resources
-These resources only are available to [OMA member companies](https://omaspecworks.org/membership/)
+These resources are only available to [OMA member companies](https://omaspecworks.org/membership/)
 * [LwM2M Specs](https://github.com/OpenMobileAlliance/LwM2M)
 * [LwM2M Objects](https://github.com/OpenMobileAlliance/objects-lwm2m). 
 * [Slack Test Rooms](https://lwm2m.slack.com). 
-  > Please note invites to this chat room is only available to TestFest participants.
+  > Please note invites to this chat room is only available to [TestFests](https://omaspecworks.org/events/testfests/) participants.
   
 ### Publicly Available Resources
 * GitHub [lwm2m-registry](https://github.com/OpenMobileAlliance/lwm2m-registry)
