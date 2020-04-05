@@ -1,11 +1,11 @@
-### Private Resources
+## Private Resources
 These resources are only available to [OMA member companies](https://omaspecworks.org/membership/)
 * [LwM2M Specs](https://github.com/OpenMobileAlliance/LwM2M)
 * [LwM2M Objects](https://github.com/OpenMobileAlliance/objects-lwm2m). 
 * [Slack Test Rooms](https://lwm2m.slack.com). 
   > Please note invites to this chat room is only available to [TestFests](https://omaspecworks.org/events/testfests/) participants.
   
-### Publicly Available Resources
+## Publicly Available Resources
 * GitHub [lwm2m-registry](https://github.com/OpenMobileAlliance/lwm2m-registry)
 * OMNA LwM2M Registry [web page](http://www.openmobilealliance.org/wp/OMNA/LwM2M/LwM2MRegistry.html)
 * [OMA LwM2M Editor Tool](https://devtoolkit.openmobilealliance.org/OEditor/Legal?back=OMNAVerify) (login via GitHub)
@@ -15,7 +15,8 @@ These resources are only available to [OMA member companies](https://omaspecwork
 * [OMA LwM2M Test Cases](http://www.openmobilealliance.org/release/LightweightM2M/ETS/)
 * [TestFests](https://omaspecworks.org/events/testfests/)
 * [OMA Developer ToolKit](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/LwM2M-Lab-Kit)
-* [Whitepaper](http://openmobilealliance.hs-sites.com/free-m2m-whitepaper-from-oma)
+* [LwM2M Overview](http://www.openmobilealliance.org/release/LightweightM2M/Lightweight_Machine_to_Machine-v1_1-OMASpecworks.pdf)
+* [LwM2M Overview & v1.1 Features](https://www.youtube.com/watch?v=D7xEYnwOeHU)
 * [DevKit](https://github.com/OpenMobileAlliance/OMA-LWM2M-DevKit)
 * [Product Listing](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Product-Listing)
 
