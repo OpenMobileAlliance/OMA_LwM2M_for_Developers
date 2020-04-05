@@ -1,5 +1,10 @@
-## OMA LwM2M for Developers
-
+### Private Resources
+These resources only are available to [OMA member companies](https://omaspecworks.org/membership/)
+* [LwM2M Specs](https://github.com/OpenMobileAlliance/LwM2M)
+* [LwM2M Objects](https://github.com/OpenMobileAlliance/objects-lwm2m). 
+* [Slack Test Rooms](https://lwm2m.slack.com). 
+  > Please note invites to this chat room is only available to TestFest participants.
+  
 ### Publicly Available Resources
 * GitHub [lwm2m-registry](https://github.com/OpenMobileAlliance/lwm2m-registry)
 * OMNA LwM2M Registry [web page](http://www.openmobilealliance.org/wp/OMNA/LwM2M/LwM2MRegistry.html)
@@ -8,23 +13,7 @@
 * [Overview](http://www.openmobilealliance.org/wp/Overviews/lightweightm2m_overview.html)
 * [OMA LwM2M Technical Specifications](http://www.openmobilealliance.org/release/LightweightM2M/). See Overview.
 * [OMA LwM2M Test Cases](http://www.openmobilealliance.org/release/LightweightM2M/ETS/)
-
-### Private Resources
-These resources only are available to [OMA member companies](https://omaspecworks.org/membership/)
-* [LwM2M Specs](https://github.com/OpenMobileAlliance/LwM2M)
-* [LwM2M Objects](https://github.com/OpenMobileAlliance/objects-lwm2m)
-
-
-# OMA LwM2M for Developers
-
-Now we have a Chat Room on Slack
-
-You can visit it here: [https://lwm2m.slack.com](https://lwm2m.slack.com)
-
-To request an Invite to the LwM2M chat room email helpdesk@omaorg.org 
-
-
-![OMA LwM2M Logo](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/blob/master/images/OMA-129%20Lightweight%20M2M%20Logo_RGB_short%20small.jpg)
+* [TestFests](https://omaspecworks.org/events/testfests/)
 
 **OMA LwM2M Developer ToolKit** 
 
